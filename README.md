@@ -1,1 +1,2 @@
-# 2-sept
+# eventtemplate
+Event Template using bootstrap, html
